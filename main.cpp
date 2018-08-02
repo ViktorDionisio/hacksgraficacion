@@ -1,4 +1,5 @@
 //JUAN CARLOS CONDE RAMÍREZ
+//Edicion de Viktor Dionisio
 //OBJETOS 3D - ILUMINACION
 #include <stdio.h>
 #include <GL/glut.h>
